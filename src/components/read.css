@@ -1,0 +1,23 @@
+.card-text {
+	display: flex;
+	align-items: start;
+	text-align: justify;
+	margin-bottom: 10px;
+}
+.author {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	gap: 10px;
+}
+.card-name {
+	font-size: 15px;
+}
+.card-date {
+	font-size: 15px;
+}
+.allData {
+	display: flex;
+	flex-wrap: wrap;
+    /* gap: 10px; */
+}
